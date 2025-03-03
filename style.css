@@ -1,0 +1,16 @@
+*{
+ margin: 10px;
+padding: 0;
+}
+
+
+
+input,label{
+display: block;
+
+}
+
+::placeholder{
+
+    font-size: 10px ;
+}
